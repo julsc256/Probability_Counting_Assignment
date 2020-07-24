@@ -1,3 +1,3 @@
 # Probability-Counting-Assignment
 
-A probability assignment PDF, with responses in Jupyter Notebook.
+A probability assignment given via PDF, with responses in Jupyter Notebook located in `Stats Worksheet - Solutions.ipynb`.
